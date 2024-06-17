@@ -1,0 +1,11 @@
+.header{
+    background-color: aqua;
+}
+.footer{
+    background-color: rgb(75, 232, 238);
+}
+.myForm{
+    margin: auto;
+    width: 400px;
+    border: solid 1px;
+}
